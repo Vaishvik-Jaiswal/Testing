@@ -11,7 +11,7 @@ function App() {
   return (
     <main className="app">
       <h1>Testing</h1>
-      <p className="subtitle">Simple React frontend Vaishvik</p>
+      <p className="subtitle">Simple React frontend Vaishvik & Ankita</p>
       <div className="card">
         <button
           type="button"
