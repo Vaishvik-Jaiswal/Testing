@@ -20,6 +20,14 @@ function App() {
         >
           Count: {count}
         </button>
+        <button
+          type="button"
+          onClick={() => setCount((c) => c - 1)}
+          aria-label="Decrement count"
+        >
+          Counting: {count}
+        </button>
+
       </div>
     </main>
   )
